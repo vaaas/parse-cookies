@@ -1,15 +1,15 @@
 {
-	'name': 'parse-cookies',
-	'version': '1.0.0',
-	'description': 'fast and simple cookie parser',
-	'main': 'parse-cookies.js',
-	'keywords': [
-		'parser', 'cookies'
+	"name": "parse-cookies",
+	"version": "1.0.0",
+	"description": "fast and simple cookie parser",
+	"main": "parse-cookies.js",
+	"keywords": [
+		"parser", "cookies"
 	],
-	'author': 'vas',
-	'license': 'AGPL-3.0',
-	'repository': {
-		'type': 'git',
-		'url': 'git://github.com/vaaas/parse-cookies.git'
+	"author": "vas",
+	"license": "AGPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vaaas/parse-cookies.git"
 	}
 }
